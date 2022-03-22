@@ -1,7 +1,7 @@
 
 def swapData ():
-    essay_file_path = input("Enter path of the file to edit in ")
-    other_file_path = input("Enter path of the file to get data from ")
+    essay_file_path = input("Enter path of the first file ")
+    other_file_path = input("Enter path of the second file ")
 
     # method 1
     # essay_file = open(essay_file_path)
